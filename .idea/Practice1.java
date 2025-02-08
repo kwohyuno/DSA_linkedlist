@@ -3,7 +3,7 @@
  * */
 
 
-public class Practice3 {
+public class Practice1 {
 
     Set<Integer> set = new HashSet<>();
 

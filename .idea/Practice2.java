@@ -13,7 +13,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Practice5 {
+class Practice2 {
     public String gameResult(ListNode head) {
 
         int tmp = 0;
